@@ -5,14 +5,19 @@ It's far from perfect, but it'll get you started.
 
 
 Files
+
 class_test.php
+
 This file holds the overall  configuration.
 
 dbh.php
+
 This is the class that does the actual connection to the mysql server and database.
 
 user.php
+
 This is the user-class file. Here are all the CRUD functions for the database.
 
 user_admin.php
+
 This file handles what you see. A supersimple submit-button menu.
