@@ -8,12 +8,6 @@ Files
 class_test.php
 This file holds the overall  configuration.
 
-'server' => 'localhost',
-'user' => 'username',
-'passwd' => 'password',
-'dbase' => 'db_class_test',
-'site_title' => 'Class tests'
-
 dbh.php
 This is the class that does the actual connection to the mysql server and database.
 
