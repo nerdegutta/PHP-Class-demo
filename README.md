@@ -3,6 +3,33 @@ This is a demoversion of how you can make a small registration with system with 
 
 It's far from perfect, but it'll get you started.
 
+Filenames have been changed, and a few new files have been added:
+
+user_add.php
+
+This is the view file for adding a user.
+
+
+user_delete.php
+
+This is the delete view for deleting a user.
+
+user_edit.php
+
+Edit a user.
+
+uer_view.php
+
+Vie a list of the users.
+
+Database.php
+
+This is the model fil in MVC
+
+UserController.php
+
+This is the controller file in MVC.
+
 
 Files
 
